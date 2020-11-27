@@ -1,0 +1,28 @@
+
+.service {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.service h1 {
+  margin-bottom: 30px;
+  font-size: 40px;
+}
+
+.con-service {
+  background-color: white;
+  padding: 60px 10px;
+}
+
+.service .serv-app h4, .service .serv-web h4{
+  margin-bottom: 10px;
+}
+.service .serv-web h4 {
+  margin-top: 40px;
+}
+
+
+.service .itm-service {
+  margin-left: 10px;
+}

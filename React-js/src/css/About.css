@@ -1,0 +1,18 @@
+
+
+.about {
+  margin: 125px 0px 200px 0px;
+  text-align: center;
+  background-color: white;
+  padding: 40px;
+  border-radius: 2px;
+}
+
+
+.about p {
+  padding: 20px;
+}
+
+.about br {
+  margin-top: 29px;
+}

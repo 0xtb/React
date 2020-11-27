@@ -1,0 +1,52 @@
+.dis-login {
+
+}
+
+.login {
+  margin: 200px 100px;
+  text-align: center;
+}
+
+.login-con {
+  background-color: #dadada;
+  border-radius: 10px;
+  display: inline-block;
+  padding:  60px 150px;
+  box-shadow: ;
+}
+
+.login-con h1 {
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: #6a6969;
+}
+
+.user, .pass {
+  margin-bottom: 2px;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+}
+
+.forgot {
+  margin: 10px 20px 20px 0px;
+  display: inline-block;
+  float: left;
+  text-decoration: none;
+}
+
+.btn-sub {
+  background-color: green;
+  padding: 8px 50px;
+  color: white;
+  border-radius: 4px;
+  width: 220px;
+
+}
+
+.btn-sub:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}

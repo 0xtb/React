@@ -1,0 +1,68 @@
+
+/* ==== Body */
+.h-con-body {
+  margin: 110px 5% 45px 5%;
+}
+
+.h-con-body h1 {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.h-itm-body {
+  margin: 13px;
+  padding: 45px 40px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+
+/* ===== Service */
+
+.h-service {
+  text-align: center;
+}
+
+.h-con-service {
+  text-align: center;
+  margin: 20px;
+  color: white;
+}
+
+.h-itm-service {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #301f1f;
+}
+.h-itm-service:hover {
+  background-color: white;
+  color: black;
+  transition: .2s ease-in;
+  cursor: pointer;
+}
+
+.h-con-service .left {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.h-con-service .right {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+
+/* ==== About  */
+
+
+.h-con-about {
+  text-align: center;
+  background-color: white;
+  padding: 20px 20px 40px 20px;
+  margin:50px 6%;
+}
+
+.h-con-about h1 {
+  margin-bottom: 20px;
+}
